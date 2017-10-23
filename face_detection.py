@@ -51,3 +51,6 @@ if content:
     print "性别为："+str(gender)
     print "是否戴眼镜："+str(glasses)
 
+
+
+
